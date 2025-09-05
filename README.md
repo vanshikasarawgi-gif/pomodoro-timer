@@ -31,24 +31,30 @@ It follows the **Pomodoro Technique** — 25 minutes of focused work followed by
    git clone https://github.com/your-username/pomodoro-timer.git
 ````
 
-2. Navigate into the folder:
+````
 
-   ```bash
-   cd pomodoro-timer
-   ```
-3. Run the script:
+2. **Navigate into the folder:**
 
-   ```bash
-   python main.py
-   ```
+```bash
+cd pomodoro-timer
+```
+
+3. **Run the script:**
+
+```bash
+python main.py
+```
+
 ---
+
 ## 🎯 How It Works
 
 1. Click **Start** → begins a 25-minute work session.
 2. Timer automatically switches to short or long breaks depending on the session cycle.
-3. You can **Pause** and later **Resume** without losing time.
-4. Click **Reset** to clear everything and start fresh.
-5. Each finished work session adds a check mark (✓) below the timer.
+3. Repeat the cycle to boost productivity and maintain focus.
+
+```
+
 
 
 
