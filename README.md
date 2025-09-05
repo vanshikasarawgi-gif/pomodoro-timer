@@ -1,6 +1,4 @@
-Absolutely ✅ Here’s the **updated README.md** with the “Requirements” and “How to Run” sections (points 2 and 3) included, ready for copy-paste:
 
-````markdown
 # Pomodoro Timer ⏰
 
 A simple **Pomodoro Timer App** built with Python and Tkinter.  
