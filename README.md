@@ -30,19 +30,19 @@ It follows the **Pomodoro Technique** — 25 minutes of focused work followed by
    ```bash
    git clone https://github.com/your-username/pomodoro-timer.git
 ````
+
 ````
 
-2. **Navigate into the folder:**
+2. Navigate into the folder:
 
-```bash
-cd pomodoro-timer
-```
+   ```bash
+   cd pomodoro-timer
+   ```
+3. Run the script:
 
-3. **Run the script:**
-
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ---
 
@@ -53,8 +53,4 @@ python main.py
 3. Repeat the cycle to boost productivity and maintain focus.
 
 ```
-
-
-
-
 
