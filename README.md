@@ -31,8 +31,6 @@ It follows the **Pomodoro Technique** — 25 minutes of focused work followed by
    git clone https://github.com/your-username/pomodoro-timer.git
 ````
 
-````
-
 2. **Navigate into the folder:**
 
 ```bash
