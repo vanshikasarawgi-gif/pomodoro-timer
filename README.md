@@ -1,4 +1,3 @@
-
 # Pomodoro Timer ⏰
 
 A simple **Pomodoro Timer App** built with Python and Tkinter.  
@@ -27,30 +26,21 @@ It follows the **Pomodoro Technique** — 25 minutes of focused work followed by
 
 ## ▶️ How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
-````
-
-````
+git clone https://github.com/your-username/pomodoro-timer.git
 
 2. Navigate into the folder:
+cd pomodoro-timer
 
-   ```bash
-   cd pomodoro-timer
-   ```
 3. Run the script:
-
-   ```bash
-   python main.py
-   ```
+python main.py
 
 ---
 
 ## 🎯 How It Works
 
-1. Click **Start** → begins a 25-minute work session.
-2. Timer automatically switches to short or long breaks depending on the session cycle.
-3. Repeat the cycle to boost productivity and maintain focus.
+1. Click Start → begins a 25-minute work session.
 
-```
+2. Timer automatically switches to short or long breaks depending on the session cycle.
+
+3. Repeat the cycle to boost productivity and maintain focus.
 
